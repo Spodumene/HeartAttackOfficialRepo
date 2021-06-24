@@ -1,0 +1,1 @@
+draw_sprite_ext(sprScreenBorder, 0, 0, 0, camera_get_view_width(0)/480, camera_get_view_height(0)/290, 0, c_white, 1);
