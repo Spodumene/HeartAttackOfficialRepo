@@ -8,7 +8,7 @@ with (tbox) {
 	var len = array_length_1d(text);
 	var i = 0;
 	repeat (len) {
-		name[i] = speakers[i].name;
+		names[i] = speakers[i].name;
 		portraits[i] = speakers[i].portrait_index;
 		i++;
 	}
